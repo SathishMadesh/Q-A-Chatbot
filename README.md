@@ -36,7 +36,8 @@ This project is a simple **LLM-powered Question & Answer web application** built
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
+
+###1️⃣ Clone the Repository
 
 ```bash
 git clone <your-repo-link>
